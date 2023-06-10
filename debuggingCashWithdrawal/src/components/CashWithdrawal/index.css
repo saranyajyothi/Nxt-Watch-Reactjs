@@ -1,0 +1,60 @@
+.bg-container {
+  background-size: cover;
+}
+
+.card-container {
+  background-color: #150b3e;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  margin: 100px;
+  background-size: cover;
+}
+
+.profile {
+  display: flex;
+}
+
+.profile-pic {
+  background-color: #c7d2fe;
+  text-align: center;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  margin: 20px;
+}
+
+.letter {
+  color: #7c3aed;
+  font-family: 'roboto';
+  font-size: 20px;
+}
+
+.name {
+  color: #c4c4c4;
+  font-family: 'roboto';
+  font-size: 30px;
+}
+
+.balnce {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bal {
+  color: #585076;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.amount {
+  color: #d4d2db;
+}
+
+.box-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}

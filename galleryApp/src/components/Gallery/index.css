@@ -1,0 +1,39 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 200px;
+
+  padding-top: 200px;
+}
+
+.container {
+  border-radius: 10px;
+  font-family: 'Roboto';
+}
+
+.enlarge-image {
+  width: 1100px;
+  height: 400px;
+}
+
+.heading {
+  font-size: 30px;
+  color: #1e293b;
+}
+
+.description {
+  font-size: 15px;
+  color: #64748b;
+  font-weight: bold;
+}
+
+.lists-container {
+  list-style-type: none;
+  display: flex;
+}

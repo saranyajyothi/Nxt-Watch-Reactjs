@@ -1,0 +1,17 @@
+/* Write your code here. */
+.list-container {
+  margin: 10px;
+}
+
+.button {
+  border-width: 0px;
+  background-color: transparent;
+}
+
+.thumbnail {
+  opacity: 0.5;
+}
+
+.active {
+  opacity: 1;
+}

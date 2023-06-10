@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+li {
+  list-style: none;
+  color: #12022f;
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+}

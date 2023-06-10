@@ -1,0 +1,36 @@
+.thumbnail {
+  width: 100px;
+  margin-right: 5px;
+  margin-bottom: 2px;
+}
+.btn-thumb {
+  background-color: transparent;
+  border: 0px solid white;
+  cursor: pointer;
+}
+@media screen and (max-width: 768px) {
+  .thumbnail {
+    width: 70px;
+    margin-right: 0px;
+  }
+}
+
+/* .thumb-btn {
+  background-color: transparent;
+  border: 0px solid #ffffff;
+  cursor: pointer;
+  outline: none;
+}
+
+.thumbnail {
+  width: 100px;
+  margin-right: 5px;
+  margin-bottom: 2px;
+}
+
+@media screen and (max-width: 768px) {
+  .thumbnail {
+    width: 70px;
+    margin-right: 0px;
+  }
+} */
